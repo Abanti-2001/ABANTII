@@ -14,10 +14,10 @@ It's been a blast :boom: to study about GitHub  :octocat: and it's features.
 
 The best video on the entire planet --->[VIDEO](https://youtu.be/bkuDXqNv-GY)
 ## Alright lads real talk here
- Write down the following information in the correct sequence :
--  <Your name>
--  <Your Favorite subject>
-- <Inspired book/comic/movie>
+ Write down the following information in the correct sequence 
+- Your name
+- Your Favorite Subject (if any)
+- Inspired book/comic/movie
 - Any feed back for this :heart:
 
 
